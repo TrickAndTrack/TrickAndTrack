@@ -1,4 +1,4 @@
-<h1 align="center">I am 👑 Nahush Zilpilwar 🤖</h1>
+<h3 align="center">👑 Nahush Zilpilwar 🤖</h3>
 <h3 align="center">🎡 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 Creative 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trickandtrack&label=Profile%20views&color=0e75b6&style=flat" alt="trickandtrack" /> </p>
