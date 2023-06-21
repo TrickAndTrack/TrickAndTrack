@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nahushzil" target="blank"><img src="https://img.shields.io/twitter/follow/nahushzil?logo=twitter&style=for-the-badge" alt="nahushzil" /></a> </p>
 
-- 🔭 I’m currently working on **Insurance Domain** | **Energy Domain**  
+- 🔭 I’m currently working on **Energy Domain**
 
 - 💬 Ask me about **Java | Spring Boot | React Js |**
 
